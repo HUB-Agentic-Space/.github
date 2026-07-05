@@ -23,6 +23,15 @@
 ![Docker](https://img.shields.io/badge/Docker-Ready-blue?style=flat-square&logo=docker)
 ![AI/ML](https://img.shields.io/badge/AI%2FML-Focused-purple?style=flat-square&logo=python)
 
+### 📊 Visitantes
+
+![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FHUB-Agentic-Space%2F.github&label=Visitantes&labelColor=2c3e50&countColor=0366d6&style=flat)
+
+</div>
+
+---
+
+
 </div>
 
 ---
