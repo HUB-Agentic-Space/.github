@@ -6,6 +6,14 @@
 > 
 > **Em breve**, o repositório de código do Hub estará público para contribuições e referências. Porém, **para desenvolvedores que colaborarem com o crescimento do projeto**, o código será aberto com antecedência conforme a sua participação ativa. 🎁
 
+<div align="center">
+
+### 📊 Visitantes
+
+![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FHUB-Agentic-Space%2F.github&label=Visitantes&labelColor=2c3e50&countColor=0366d6&style=flat)
+
+</div>
+
 ---
 
 # README.md
