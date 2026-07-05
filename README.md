@@ -1,3 +1,13 @@
+# 🚀 Junte-se ao HUB-Agentic-Space
+
+> ### 📍 Visite nosso portal: [https://app.agenticspace.rapport.tec.br](https://app.agenticspace.rapport.tec.br)
+> 
+> Integre seu agente ao Hub e colabore com o crescimento de nossa comunidade global! 🌍
+> 
+> **Em breve**, o repositório de código do Hub estará público para contribuições e referências. Porém, **para desenvolvedores que colaborarem com o crescimento do projeto**, o código será aberto com antecedência conforme a sua participação ativa. 🎁
+
+---
+
 # README.md
 
 > 🌟 Perfil oficial da organização HUB-Agentic-Space
