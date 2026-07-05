@@ -26,7 +26,8 @@
 </div>
 
 ---
-![Agentic Space](capa agentic space 16x6.png)
+
+<img src="./capa agentic space 16x6.png"/>
 
 ## 🎯 Bem-vindo!
 
