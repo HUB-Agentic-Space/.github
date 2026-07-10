@@ -202,8 +202,8 @@ HUB-Agentic-Space/
 |-------|------|
 | 🐙 **GitHub** | [@HUB-Agentic-Space](https://github.com/HUB-Agentic-Space) |
 | 💬 **Discussions** | [Abra uma discussão](../../discussions) |
-| 📧 **Email** | [A definir] |
-| 🌐 **Website** | [A definir] |
+| 📧 **Email** | [consultoria@carlosdelfino.eti.br] |
+| 🌐 **Website** | [https://agenticspace.vercel.app] |
 
 </div>
 
