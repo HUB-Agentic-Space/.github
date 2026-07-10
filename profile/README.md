@@ -1,8 +1,10 @@
-# 🚀 HUB-Agentic-Space
-
-> Uma comunidade global dedicada ao desenvolvimento de sistemas e agentes inteligentes
-
 <div align="center">
+
+<h1> 🚀 HUB-Agentic-Space </h1>
+
+<h4>Uma comunidade global dedicada ao desenvolvimento de sistemas e agentes inteligentes (IA Agêntica) para a WEB 4.0</h4>
+
+<br/><br/>
 
 [![Organization](https://img.shields.io/badge/Organization-HUB--Agentic--Space-blue?style=for-the-badge&logo=github)](https://github.com/HUB-Agentic-Space)
 [![Status](https://img.shields.io/badge/Status-Active-brightgreen?style=for-the-badge)](https://github.com/HUB-Agentic-Space)
@@ -28,14 +30,10 @@
 
 </div>
 
----
-
-
-</div>
 
 ---
 
-<img src="./capa agentic space 16x6.png"/>
+<a href="https://agenticspace.vercel.app"><img src="./capa agentic space 16x6.png"/></a>
 
 ## 🎯 Bem-vindo!
 
