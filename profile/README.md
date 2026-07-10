@@ -1,6 +1,6 @@
 <div align="center">
 
-<h1> 🚀 HUB-Agentic-Space </h1>
+<h1> 🚀 HUB Agentic Space </h1>
 
 <h4>Uma comunidade global dedicada ao desenvolvimento de sistemas e agentes inteligentes (IA Agêntica) para a WEB 4.0</h4>
 
