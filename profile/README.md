@@ -16,7 +16,6 @@
 
 ![Python](https://img.shields.io/badge/Python-3.9%2B-blue?style=flat-square&logo=python)
 ![TypeScript](https://img.shields.io/badge/TypeScript-Latest-blue?style=flat-square&logo=typescript)
-![Go](https://img.shields.io/badge/Go-1.21%2B-blue?style=flat-square&logo=go)
 ![Rust](https://img.shields.io/badge/Rust-Latest-blue?style=flat-square&logo=rust)
 
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-Enabled-blue?style=flat-square&logo=github-actions)
